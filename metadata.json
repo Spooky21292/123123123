@@ -1,0 +1,6 @@
+{
+  "name": "Playerok Panel",
+  "description": "Stateful management panel for Playerok chats, messages, product listings, and active orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
